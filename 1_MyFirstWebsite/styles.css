@@ -1,0 +1,17 @@
+/*Here I give style to all divs*/
+div {
+    background-color: blueviolet;
+    color:white;
+}
+
+/*Here I give style to a specific class (there can be a lot of elemets of the same class)*/
+.niceParagraph {
+    color: brown;
+    background-color: aliceblue;
+}
+
+/*Here I give style to a specific ID (there can be only one elemet with this ID)*/
+#thisIsUnique {
+    color: red;
+    background-color: yellow;
+}
