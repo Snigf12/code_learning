@@ -109,6 +109,11 @@ img {
     border-left: solid #d4d4d4 2px;
 }
 
+.main-item img {
+    width: 210px;
+    height: 100px;
+}
+
 /*The quote*/
 .quote-container {
     background-color: #E5E7EB;
@@ -174,18 +179,17 @@ img {
 .footer-item h1{
     color: rgb(2, 30, 54);
     text-align: left;
-    width: max-content;
 }
 
 .footer-item p{
     color: rgb(2, 30, 54);
     text-align: left;
-    width: max-content;
+    width: 400px;
 }
 
 .footer-item {
-    padding: 15px;
-    margin: 10px;
+    padding: 10px;
+    margin: 5px;
 }
 
 /*The copyright footer*/
